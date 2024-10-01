@@ -1,2 +1,2 @@
-# ssac25
-This repo is for the SSAC25 research paper competition
+# SSAC '25
+This repo is for the SSAC25 research paper competition. The work for this submission is currently in progress...
